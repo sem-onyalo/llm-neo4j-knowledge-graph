@@ -22,3 +22,9 @@ NEO4J_PASSWORD=
 NEO4J_URI=bolt://35.170.70.188:7687
 NEO4J_USERNAME=neo4j
 ```
+
+## Run Chatbot
+
+```
+streamlit run chatbot/bot.py
+```
